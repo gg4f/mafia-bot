@@ -1,12 +1,12 @@
 module.exports = {
-    token: 'token',         // توكن البوت
-    startTime: 30000,       // وقت دخول الاعضاء قبل البدء
-    mafiaKillTime: 30000,  // وقت مرحله المافيا
-    docActionTime: 20000,  // وقت مرحله الدكتور
-    detectorPhaseTime: 15000,    // وقت مرحلة المحقق
-    citizenVoteTime: 20000,      // وقت تصويت المواطنين على المافيا
-    bodyguardPhaseTime: 15000, // وقت مرحلة الحارس
-    allowedRoleId: 'ID',   // ايدي رتبة الي يبدء امر مافيا
-    maxPlayers: 10 ,               // حد الاقصى لدخول اللعبة
+    token: 'MTM5MTUyOTI0NjcxODk1MTUxNg.GKcV-y.xVtjJyeV_Fnx6S-5jW8sfjlAYVpCpX6-ku9tNg',         // توكن البوت
+    startTime: 60,       // وقت دخول الاعضاء قبل البدء
+    mafiaKillTime: 15,  // وقت مرحله المافيا
+    docActionTime: 15,  // وقت مرحله الدكتور
+    detectorPhaseTime: 15,    // وقت مرحلة المحقق
+    citizenVoteTime: 20,      // وقت تصويت المواطنين على المافيا
+    bodyguardPhaseTime: 15, // وقت مرحلة الحارس
+    allowedRoleId: '1379906518706552882',   // ايدي رتبة الي يبدء امر مافيا
+    maxPlayers: 20 ,               // حد الاقصى لدخول اللعبة
     minPlayers: 6,                // حد الادنى لدخول اللعبة
 };
